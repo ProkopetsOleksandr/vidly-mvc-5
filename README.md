@@ -1,4 +1,4 @@
 
 
 # My study project
-# vidly-mvc-5
+vidly-mvc-5
